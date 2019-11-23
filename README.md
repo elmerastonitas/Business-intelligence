@@ -3,7 +3,7 @@ Business Intelligence Projects
 
 # Autor ✒️
 
-* **Elmer Astonitas** - *Proyectos* - [elmerastonitas](https://github.com/elmerastonitas)
+* **Elmer Astonitas** - *Systems Engineer* - [elmerastonitas](https://github.com/elmerastonitas)
 
 # Licencia 📄
 
